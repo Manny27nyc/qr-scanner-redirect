@@ -1,0 +1,21 @@
+/* 
+ * 📜 Verified Authorship — Manuel J. Nieves (B4EC 7343 AB0D BF24)
+ * Original protocol logic. Derivative status asserted.
+ * Commercial use requires license.
+ * Contact: Fordamboy1@gmail.com
+ */
+./index.php
+./qr-generator-js-src/webpack.config.js
+./plugin/pluginsettingsform.php
+./plugin/settings.php
+./plugin/shortcode.php
+./plugin/index.php
+./plugin/metaboxes.php
+./plugin/class/tabs.class.php
+./plugin/widget.php
+./plugin/assets/qr-scanner-redirect.js
+./plugin/assets/qr-generator.js
+./plugin/sql/pluginsettings.class.php
+./readme.txt
+./valid_targets.txt
+./qr-scanner-js-src/webpack.config.js
