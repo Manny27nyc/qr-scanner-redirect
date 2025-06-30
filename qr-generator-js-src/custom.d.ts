@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 declare module "qrcode-npm" {
   const content: any;
   export default content;

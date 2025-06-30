@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const path = require("path");
 const FILENAME = require("./package.json").name;
 console.log(FILENAME)
